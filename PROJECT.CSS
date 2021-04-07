@@ -1,0 +1,63 @@
+#hd{
+    border-style:solid ;
+    background-color: red;
+    border-width: 5px;
+    border-color:red;
+    text-align: center;
+
+}
+
+#st{
+    margin-top: 1%;
+    background-image: url("intro.png");
+    background-repeat: no-repeat;
+    background-size: 100%100%;
+    object-fit: scale-down;
+    height: 650px;
+
+}
+#co{
+    color: rgb(165, 165, 165);
+}
+#sp{
+    color: red;
+    font-size: xx-large;
+}
+#bo{
+   
+   
+    border-color:red;
+    background-color:blanchedalmond;
+}
+body{
+    background-color: black;
+}
+
+#lo{
+    color: red;
+}
+#bt{
+    margin-left: 45%;
+}
+#pt{
+    color: white;
+    text-align: center;
+    font-size:xx-large ;
+}
+#pi{
+    color: white;
+    text-align: center;
+    border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style:solid,red;
+  border-left-style: solid;
+    border-color: white;
+}
+#wt{
+    color: white;
+    text-align: center;
+}
+#ba{
+    color:rgb(12, 10, 10);
+    background-color: white;
+}
